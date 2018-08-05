@@ -1,0 +1,9 @@
+Image with standard deviation of 0.1 has total variance = 17983873.16050369
+Image with standard deviation of 0.5 has total variance = 87163649.03707045
+Image with standard deviation of 1 has total variance = 168179172.04935557
+
+High differences (variations) between every pixel & pixels nearby means there is noise.
+total variance measures the difference between the nearby pixels & their average.
+when the variance is much higher than their average that means that there are high difference (variations)
+between every pixel & the pixels nearby, means there is noise.
+
